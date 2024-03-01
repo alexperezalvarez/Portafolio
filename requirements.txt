@@ -1,14 +1,18 @@
-black==21.9b0
-click==8.0.3
-mypy-extensions==0.4.3
-pathspec==0.9.0
-platformdirs==2.4.0
-pytz==2021.3
-regex==2021.10.23
-tomli==1.2.2
-typing-extensions==3.10.0.2
+black==24.2.0
+click==8.1.7
+mypy-extensions==1.0.0
+pathspec==0.12.1
+platformdirs==4.2.0
+pytz==2024.1
 asgiref==3.7.2
 Django==5.0.2
-pillow==10.2.0
+pillow10.2.0
+pip==24.0
+regex==2023.12.25
 sqlparse==0.4.4
-tzdata==2024.1
+tomli==2.0.1
+typing_extensions ==4.10.0
+tzdat== 2024.1
+
+
+
